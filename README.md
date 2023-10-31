@@ -12,7 +12,7 @@ El conjunto de datos a utilizar es el dataset de **PI-CAI CHALLENGE**, el cual c
 
 Así se conforman esos **1500 estudios** los cuales cada uno de ellos cuenta con 3 modalidades de **MRI** **T2WI, ADC Y B-VAL (DWI)**.
 
-## __*Datos adicionales*__
+### *Datos adicionales*
 + Un paciente puede tener mas de un estudio de **MRI**.
 + Un estudio puede tener mas de una lesión **clinicamente significativa**.
 + Una lesión clínicamente significativa se define como **ISUP >= 2** la cual es la escala histopatológica de lesiones de cancer de próstata que dice que tan crítica o de que grado es la lesión en un estudio **HISTOPATOLÓGICO** que este es un estudio el cual se analizan la células y tejidos de interés mediante un microscopio los cuales han sido extraídos previamente mediante una biopsia.
