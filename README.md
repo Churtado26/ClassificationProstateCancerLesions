@@ -20,6 +20,7 @@ Así se conforman esos **1500 estudios** los cuales cada uno de ellos cuenta con
 + Los estudios de MRI son de diferentes centros clínicos, esto indica que fueron realizadas con resonadores con diferentes características y parámetros como por ejemplo la resolución, esto es un reto extra ya que se debe plantear una estrategia para normalizar o estandarizar para el preprocesamiento de los datos
 
 [PI-CAI CHALLENGE DATASET](https://pi-cai.grand-challenge.org/)
+
 [PRESENTACIÓN DEL DATASET](https://drive.google.com/file/d/1yTtr9oF6XUb-j1e6tNoB6vj1JnVcB0PL/view?usp=sharing)
 
 ## Idea general del proyecto
