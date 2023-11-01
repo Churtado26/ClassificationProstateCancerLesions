@@ -15,7 +15,7 @@ Así se conforman esos **1500 estudios** los cuales cada uno de ellos cuenta con
 ### *Datos adicionales*
 + Un paciente puede tener mas de un estudio de **MRI**.
 + Un estudio puede tener mas de una lesión **clinicamente significativa**.
-+ Una lesión clínicamente significativa se define como **ISUP >= 2** la cual es la escala histopatológica de lesiones de cancer de próstata que dice que tan crítica o de que grado es la lesión en un estudio **HISTOPATOLÓGICO** que este es un estudio el cual se analizan la células y tejidos de interés mediante un microscopio los cuales han sido extraídos previamente mediante una biopsia.
++ Una lesión clínicamente significativa se define como **ISUP >= 2** la cual es la escala histopatológica de lesiones de cancer de próstata que dice que tan crítica o de que grado es la lesión en un estudio **HISTOPATOLÓGICO**, este es un estudio el cual se analizan la células y tejidos de interés mediante un microscopio los cuales han sido extraídos previamente mediante una biopsia.
 + Las marcaciónes fueron realizadas mediante una colaboración con un consejo asesor científico internacional y multidisciplinar  que lo integran **16 expertos en IA de próstata ,radiología y urología**.
 + Los estudios de MRI son de diferentes centros clínicos, esto indica que fueron realizadas con resonadores con diferentes características y parámetros como por ejemplo la resolución, esto es un reto extra ya que se debe plantear una estrategia para normalizar o estandarizar para el uso de los datos correcto.
 
