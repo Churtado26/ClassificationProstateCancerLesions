@@ -39,4 +39,4 @@ El problema se va abordar con la implementación de una arquitectura convolucion
 
 [PRESENTACIÓN FINAL](https://drive.google.com/file/d/1fa68ORkZ6Rrq2e4I90pR94yT36I1Dvtk/view?usp=drive_link)
 
-[VIDEO][https://youtu.be/UGpdy3XRtH4]
+[VIDEO](https://youtu.be/UGpdy3XRtH4)
