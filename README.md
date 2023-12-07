@@ -1,7 +1,7 @@
 # Classification of clinically significant lesions of prostate cancer in MRI sequences.
 
 ## Autor 
-_César Hurtado Rodríguez_
+_César Hurtado Rodríguez - 2191957_
 
 ## Dataset
 El conjunto de datos a utilizar es el dataset de **PI-CAI CHALLENGE**, el cual cuenta con 1500 estudios con estas características:
