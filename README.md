@@ -1,5 +1,7 @@
 # Classification of clinically significant lesions of prostate cancer in MRI sequences.
 
+![](https://raw.githubusercontent.com/Churtado26/ClassificationProstateCancerLesions/main/Baner.PNG)
+
 ## Autor 
 _César Hurtado Rodríguez - 2191957_
 
