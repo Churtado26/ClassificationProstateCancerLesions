@@ -3,6 +3,10 @@
 ## Autor 
 _César Hurtado Rodríguez - 2191957_
 
+## Objetivo
+Implementar un modelo de aprendizaje profundo para la clasificación de lesiones clínicamente significativas de
+cáncer de próstata en MRI.
+
 ## Dataset
 El conjunto de datos a utilizar es el dataset de **PI-CAI CHALLENGE**, el cual cuenta con 1500 estudios con estas características:
 + De los **1500** estudios, **425** son con lesión.
